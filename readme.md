@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## About
 
 I'm a 20 years old software and game developer with a passion for gamedev and graphics rendering techniques. I also love math and enjoy solving problems.
